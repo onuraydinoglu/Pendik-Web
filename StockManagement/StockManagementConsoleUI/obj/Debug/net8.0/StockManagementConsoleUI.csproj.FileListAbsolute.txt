@@ -1,0 +1,14 @@
+C:\Users\onura\Desktop\Pendik\StockManagement\StockManagementConsoleUI\bin\Debug\net8.0\StockManagementConsoleUI.exe
+C:\Users\onura\Desktop\Pendik\StockManagement\StockManagementConsoleUI\bin\Debug\net8.0\StockManagementConsoleUI.deps.json
+C:\Users\onura\Desktop\Pendik\StockManagement\StockManagementConsoleUI\bin\Debug\net8.0\StockManagementConsoleUI.runtimeconfig.json
+C:\Users\onura\Desktop\Pendik\StockManagement\StockManagementConsoleUI\bin\Debug\net8.0\StockManagementConsoleUI.dll
+C:\Users\onura\Desktop\Pendik\StockManagement\StockManagementConsoleUI\bin\Debug\net8.0\StockManagementConsoleUI.pdb
+C:\Users\onura\Desktop\Pendik\StockManagement\StockManagementConsoleUI\obj\Debug\net8.0\StockManagementConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onura\Desktop\Pendik\StockManagement\StockManagementConsoleUI\obj\Debug\net8.0\StockManagementConsoleUI.AssemblyInfoInputs.cache
+C:\Users\onura\Desktop\Pendik\StockManagement\StockManagementConsoleUI\obj\Debug\net8.0\StockManagementConsoleUI.AssemblyInfo.cs
+C:\Users\onura\Desktop\Pendik\StockManagement\StockManagementConsoleUI\obj\Debug\net8.0\StockManagementConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\onura\Desktop\Pendik\StockManagement\StockManagementConsoleUI\obj\Debug\net8.0\StockManagementConsoleUI.dll
+C:\Users\onura\Desktop\Pendik\StockManagement\StockManagementConsoleUI\obj\Debug\net8.0\refint\StockManagementConsoleUI.dll
+C:\Users\onura\Desktop\Pendik\StockManagement\StockManagementConsoleUI\obj\Debug\net8.0\StockManagementConsoleUI.pdb
+C:\Users\onura\Desktop\Pendik\StockManagement\StockManagementConsoleUI\obj\Debug\net8.0\StockManagementConsoleUI.genruntimeconfig.cache
+C:\Users\onura\Desktop\Pendik\StockManagement\StockManagementConsoleUI\obj\Debug\net8.0\ref\StockManagementConsoleUI.dll
